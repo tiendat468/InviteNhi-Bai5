@@ -1,0 +1,14 @@
+git clone "link" -- tải code từ git
+
+git fetch origin (main: có hay ko cx dc)
+git pull  -- update git ko cần clone lại
+
+
+
+git init
+git add .
+git commit -m ""
+git push -u origin main
+
+
+git log -- lịch sử côm mít
